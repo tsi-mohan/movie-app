@@ -19,7 +19,7 @@
 - ``` Live Stream Movies```:white_check_mark:
 
 ## Live Demo
-[Link](https://moviweb.herokuapp.com/):computer:
+[Link](https://webmov.herokuapp.com/):computer:
 
 ## Staggers
 [![Stargazers](https://reporoster.com/stars/betahut/movie-app)](https://github.com/betahut/movie-app/stargazers)
